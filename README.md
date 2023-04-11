@@ -1,2 +1,2 @@
 # me
-A personal minimal neofetch replacement.
+My minimal neofetch replacement.
