@@ -24,7 +24,7 @@ int main(void){
     printf(";MMMMMMMMMMMMMMMMMMMMMMMM:           \e[1;31m%s\n", sysinfo.release);
     printf(":MMMMMMMMMMMMMMMMMMMMMMMM:           \e[1;35m%s\n", getenv("SHELL"));
     printf("\e[1;31m.MMMMMMMMMMMMMMMMMMMMMMMMX.          \e[1;34m%s\n", getenv("TERM"));
-    printf("\e[1;31m kMMMMMMMMMMMMMMMMMMMMMMMMWd. \e[1;36m%s\n", brand);
+    printf("\e[1;31m kMMMMMMMMMMMMMMMMMMMMMMMMWd.        \e[1;36m%s\n", brand);
     printf("\e[1;35m .XMMMMMMMMMMMMMMMMMMMMMMMMMMk\n");
     printf("  .XMMMMMMMMMMMMMMMMMMMMMMMMK.\n");
     printf("\e[1;34m    kMMMMMMMMMMMMMMMMMMMMMMd\n");
