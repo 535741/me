@@ -29,5 +29,5 @@ int main(void){
     printf("  .XMMMMMMMMMMMMMMMMMMMMMMMMK.\n");
     printf("\e[1;34m    kMMMMMMMMMMMMMMMMMMMMMMd\n");
     printf("     ;KMMMMMMMWXXWMMMMMMMk.\n");
-    printf("       .cooc,.    .,coo:.\n");
+    printf("       .cooc,.    .,coo:.\033[0m\n");
 }
